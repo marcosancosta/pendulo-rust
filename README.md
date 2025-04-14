@@ -38,7 +38,7 @@ Esse cálculo é repetido a cada frame, criando a ilusão do movimento oscilató
 
 ## 📷 Demonstração
 
-*Adicione aqui uma imagem ou GIF da simulação em execução para melhor visualização.*
+![Simulação do Pêndulo](assets/teste-pendulo.gif)
 
 ---
 
