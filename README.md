@@ -47,6 +47,6 @@ Esse cálculo é repetido a cada frame, criando a ilusão do movimento oscilató
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/projeto-pendulo-rust.git
+git clone https://github.com/Marcones-san/pendulo-rust.git
 cd projeto-pendulo-rust
 cargo run
