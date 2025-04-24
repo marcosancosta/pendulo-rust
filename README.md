@@ -51,4 +51,4 @@ git clone https://github.com/Marcones-san/pendulo-rust.git
 cd projeto-pendulo-rust
 cargo run
 
-Obs: Se der erro após esse comando, pode ser alguma função do antivirus, então use o comando "cargo run --release".
+Obs: Se der erro após esse comando, pode ser algum bloqueio relacionado ao antivirus, então use o comando "cargo run --release".
